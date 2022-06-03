@@ -9,7 +9,7 @@ I am proficient Blockchain developer, I am a Full-stack Blockchain Developer. I 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [amankaushik](http://personal-portfolio-by-aman.netlify.app/)
 * ✉️  You can contact me at [amankaushik481@gmail.com](mailto:amankaushik481@gmail.com)
-* 🧠  I'm learning Rust
+* 🧠  I'm learning more in Blockchain Development.
 * 🤝  I'm open to collaborating on Interesting blockchain projects
 * ⚡  I'm secretly a book worm, don't tell anyone.
 

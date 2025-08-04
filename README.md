@@ -4,7 +4,7 @@ Hi 👋 My name is Aman Kaushik
 Full Stack Developer
 --------------------
 
-I am proficient Blockchain developer, I am a Full-stack Blockchain Developer. I develop front end as well as back end of dApps. I am looking for interesting projects to work on. Some past things => I started with Web Development(HTML, CSS, JS, PHP, MYSQL) 5 years ago, then i moved to C, C++, then to front end development including wordpress development, later on I became a MERN Stack Developer.
+I am a Full-stack Developer. I develop front end as well as back end of dApps. I am looking for interesting projects to work on. Some past things => I started with Web Development(HTML, CSS, JS, PHP, MYSQL) 5 years ago, then i moved to C, C++, then to front end development including wordpress development, later on I became a MERN Stack Developer.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [amankaushik](http://personal-portfolio-by-aman.netlify.app/)
